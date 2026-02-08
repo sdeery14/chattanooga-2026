@@ -32,18 +32,18 @@ Included for completeness. Not primary bouldering destinations for this trip.
 
 ## Comparison Table
 
-| Area | Drive | V7–V10 | V4–V6 | V0–V3 | Feb Conditions | Access / Fees | Style |
-|------|-------|--------|-------|-------|----------------|---------------|-------|
-| [HP40](hp40.md) | ~2 hrs | Outstanding | Strong | Moderate | Peak season; cold = sticky slopers | Private; $15/day | Compression, slopers, water grooves |
-| [Rocktown](rocktown.md) | ~50–70 min | Excellent | Abundant | Abundant | Peak season; coarse sandstone loves cold | GA WMA license ~$10 | Diverse: slopers, huecos, crimps |
-| [Stone Fort](stone-fort.md) | ~35–45 min | Strong | Abundant | Abundant | Peak season; bullet sandstone, good shade | Private; $10–12/day | Diverse: iron rails, slopers, mantles |
-| [Dayton Pocket](dayton-pocket.md) | ~50–65 min | Moderate | Moderate | Moderate | Good if cold/dry; gorge can be damp | Free; online registration | Roof climbing: pockets, pinches |
-| [Zahnd Tract](zahnd-tract.md) | ~50–60 min | Limited | Strong | Moderate | Good; fine-grained sandstone | GA WMA license ~$10 | Slabs, slopers, overhangs |
-| [Dogwood](dogwood.md) | ~45–55 min | Limited | Strong | Moderate | Good; bullet sandstone | Free; register online | Technical slab, patina incuts |
-| [Hospital Boulders](hospital-boulders.md) | ~1.5–2 hrs | Limited | Strong | Abundant | Good | Free; SCC gate code | [UNVERIFIED] |
-| [Walden's Ridge](waldens-ridge.md) | ~25–35 min | Minimal | Moderate | Moderate | Good | Free; no permit | Varied Pennsylvanian sandstone |
-| [Sunset Rock](sunset-rock.md) | ~20–30 min | Negligible | Limited | Limited | — | Free | Primarily trad |
-| [Hell's Kitchen](hells-kitchen.md) | ~40–50 min | [UNVERIFIED] | [UNVERIFIED] | [UNVERIFIED] | — | Free | [UNVERIFIED] |
+| Area | Drive | V7–V10 | V4–V6 | V0–V3 | Feb Conditions | Access / Fees | Style | Problems |
+|------|-------|--------|-------|-------|----------------|---------------|-------|----------|
+| [HP40](hp40.md) | ~2 hrs | Outstanding | Strong | Moderate | Peak season; cold = sticky slopers | Private; $15/day | Compression, slopers, water grooves | [Clusters](hp40-problems.md) |
+| [Rocktown](rocktown.md) | ~50–70 min | Excellent | Abundant | Abundant | Peak season; coarse sandstone loves cold | GA WMA license ~$10 | Diverse: slopers, huecos, crimps | [Clusters](rocktown-problems.md) |
+| [Stone Fort](stone-fort.md) | ~35–45 min | Strong | Abundant | Abundant | Peak season; bullet sandstone, good shade | Private; $10–12/day | Diverse: iron rails, slopers, mantles | [Clusters](stone-fort-problems.md) |
+| [Dayton Pocket](dayton-pocket.md) | ~50–65 min | Moderate | Moderate | Moderate | Good if cold/dry; gorge can be damp | Free; online registration | Roof climbing: pockets, pinches | [Clusters](dayton-pocket-problems.md) |
+| [Zahnd Tract](zahnd-tract.md) | ~50–60 min | Limited | Strong | Moderate | Good; fine-grained sandstone | GA WMA license ~$10 | Slabs, slopers, overhangs | [Clusters](zahnd-tract-problems.md) |
+| [Dogwood](dogwood.md) | ~45–55 min | Limited | Strong | Moderate | Good; bullet sandstone | Free; register online | Technical slab, patina incuts | — |
+| [Hospital Boulders](hospital-boulders.md) | ~1.5–2 hrs | Limited | Strong | Abundant | Good | Free; SCC gate code | [UNVERIFIED] | [Clusters](hospital-boulders-problems.md) |
+| [Walden's Ridge](waldens-ridge.md) | ~25–35 min | Minimal | Strong | Moderate | Good | Free; no permit | Varied Pennsylvanian sandstone | [Clusters](waldens-ridge-problems.md) |
+| [Sunset Rock](sunset-rock.md) | ~20–30 min | Negligible | Limited | Limited | — | Free | Primarily trad | — |
+| [Hell's Kitchen](hells-kitchen.md) | ~40–50 min | [UNVERIFIED] | [UNVERIFIED] | [UNVERIFIED] | — | Free | [UNVERIFIED] | — |
 
 ---
 

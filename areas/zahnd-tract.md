@@ -2,6 +2,7 @@
 
 > **Tier**: Supplementary
 > **Drive from lodging**: ~50–60 min from Enterprise South Nature Park area
+> **Problem Clusters**: [Curated problem lists by grade band](zahnd-tract-problems.md)
 
 ## Overview
 

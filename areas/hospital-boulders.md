@@ -2,6 +2,7 @@
 
 > **Tier**: Supplementary
 > **Drive from lodging**: ~1.5–2 hrs from Enterprise South Nature Park area [UNVERIFIED]
+> **Problem Clusters**: [Curated problem lists by grade band](hospital-boulders-problems.md)
 
 ## Overview
 

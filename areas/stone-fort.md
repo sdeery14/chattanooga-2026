@@ -2,6 +2,7 @@
 
 > **Tier**: Primary
 > **Drive from lodging**: ~35–45 min from Enterprise South Nature Park area
+> **Problem Clusters**: [Curated problem lists by grade band](stone-fort-problems.md)
 
 ## Overview
 

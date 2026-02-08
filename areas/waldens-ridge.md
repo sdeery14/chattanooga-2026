@@ -2,6 +2,7 @@
 
 > **Tier**: Supplementary
 > **Drive from lodging**: ~25–35 min from Enterprise South Nature Park area
+> **Problem Clusters**: [Curated problem lists by grade band](waldens-ridge-problems.md)
 
 ## Overview
 
@@ -24,9 +25,9 @@ Walden's Ridge is a 200-acre public park on Signal Mountain opened in 2023, maki
 
 ### V4–V6 (Moderate)
 
-- **Density**: Moderate
-- Developing problem inventory across the mid-grades
-- V5 climbers can find a decent short session
+- **Density**: Strong
+- 12+ named moderate problems, primarily concentrated around the Upper Parking Area and Falls Connector
+- V5 climbers will have a full session of quality problems — this is the area's primary strength
 
 ## Conditions
 
