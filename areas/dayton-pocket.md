@@ -3,6 +3,7 @@
 > **Tier**: Supplementary
 > **Drive from lodging**: ~50–65 min from Enterprise South Nature Park area
 > **Problem Clusters**: [Curated problem lists by grade band](dayton-pocket-problems.md)
+> **Nearby MTB**: None nearby — closest is [ESNP](../trails/enterprise-south.md) (~50-65 min back to lodging)
 
 ## Overview
 

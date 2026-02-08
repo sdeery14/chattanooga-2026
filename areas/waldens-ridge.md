@@ -3,6 +3,7 @@
 > **Tier**: Supplementary
 > **Drive from lodging**: ~25–35 min from Enterprise South Nature Park area
 > **Problem Clusters**: [Curated problem lists by grade band](waldens-ridge-problems.md)
+> **Nearby MTB**: [Walden's Ridge Park](../trails/waldens-ridge-park.md) (same location!), [Raccoon Mountain](../trails/raccoon-mountain.md) (~15-20 min)
 
 ## Overview
 

@@ -26,8 +26,8 @@
 
 **Purpose**: Create directory structure and template foundation
 
-- [ ] T001 Create `trails/` directory at repository root
-- [ ] T002 Create `trails/README.md` with header, comparison table skeleton, and pairing matrix skeleton per data-model.md schema
+- [x] T001 Create `trails/` directory at repository root
+- [x] T002 Create `trails/README.md` with header, comparison table skeleton, and pairing matrix skeleton per data-model.md schema
 
 **Checkpoint**: Directory and README shell exist — ready for content
 
@@ -41,21 +41,21 @@
 
 ### Full Profiles (8) — Primary Trail Systems
 
-- [ ] T003 [P] Write full trail profile for Enterprise South Nature Park in `trails/enterprise-south.md` using research.md Trail #1 data and data-model.md template (name, location, drive time, nearby climbing links to `../areas/`, overview, trails & difficulty table, conditions, access & logistics, sources)
-- [ ] T004 [P] Write full trail profile for Raccoon Mountain in `trails/raccoon-mountain.md` using research.md Trail #2 data and data-model.md template
-- [ ] T005 [P] Write full trail profile for Stringer's Ridge in `trails/stringers-ridge.md` using research.md Trail #3 data and data-model.md template
-- [ ] T006 [P] Write full trail profile for Walden's Ridge Park in `trails/waldens-ridge-park.md` using research.md Trail #4 data and data-model.md template
-- [ ] T007 [P] Write full trail profile for White Oak Mountain in `trails/white-oak-mountain.md` using research.md Trail #5 data and data-model.md template
-- [ ] T008 [P] Write full trail profile for Five Points Recreation Area in `trails/five-points.md` using research.md Trail #6 data and data-model.md template
-- [ ] T009 [P] Write full trail profile for Chickamauga Battlefield in `trails/chickamauga-battlefield.md` using research.md Trail #11 data and data-model.md template (note: gravel/road riding, not MTB singletrack — flag clearly)
-- [ ] T010 [P] Write full trail profile for Coldwater Mountain in `trails/coldwater-mountain.md` using research.md Trail #16 data and data-model.md template (note: HP40 pairing, include drive time from HP40)
+- [x] T003 [P] Write full trail profile for Enterprise South Nature Park in `trails/enterprise-south.md` using research.md Trail #1 data and data-model.md template (name, location, drive time, nearby climbing links to `../areas/`, overview, trails & difficulty table, conditions, access & logistics, sources)
+- [x] T004 [P] Write full trail profile for Raccoon Mountain in `trails/raccoon-mountain.md` using research.md Trail #2 data and data-model.md template
+- [x] T005 [P] Write full trail profile for Stringer's Ridge in `trails/stringers-ridge.md` using research.md Trail #3 data and data-model.md template
+- [x] T006 [P] Write full trail profile for Walden's Ridge Park in `trails/waldens-ridge-park.md` using research.md Trail #4 data and data-model.md template
+- [x] T007 [P] Write full trail profile for White Oak Mountain in `trails/white-oak-mountain.md` using research.md Trail #5 data and data-model.md template
+- [x] T008 [P] Write full trail profile for Five Points Recreation Area in `trails/five-points.md` using research.md Trail #6 data and data-model.md template
+- [x] T009 [P] Write full trail profile for Chickamauga Battlefield in `trails/chickamauga-battlefield.md` using research.md Trail #11 data and data-model.md template (note: gravel/road riding, not MTB singletrack — flag clearly)
+- [x] T010 [P] Write full trail profile for Coldwater Mountain in `trails/coldwater-mountain.md` using research.md Trail #16 data and data-model.md template (note: HP40 pairing, include drive time from HP40)
 
 ### Brief Profiles (4) — Secondary Trail Systems
 
-- [ ] T011 [P] Write brief trail profile for Booker T. Washington State Park in `trails/booker-t-washington.md` using research.md Trail #7 data (abbreviated: header metadata, 2-3 sentence overview, key logistics, sources — no full trail breakdown table)
-- [ ] T012 [P] Write brief trail profile for Lookout Mountain (Moonshine/CCT) in `trails/lookout-mountain.md` using research.md Trail #8 data (abbreviated format)
-- [ ] T013 [P] Write brief trail profile for Pigeon Mountain in `trails/pigeon-mountain.md` using research.md Trail #12 data (abbreviated format; flag WMA access restrictions and hunting season closures prominently)
-- [ ] T014 [P] Write brief trail profile for Oak Mountain State Park in `trails/oak-mountain.md` using research.md Trail #14 data (abbreviated format; note too far for climbing pairing, standalone only)
+- [x] T011 [P] Write brief trail profile for Booker T. Washington State Park in `trails/booker-t-washington.md` using research.md Trail #7 data (abbreviated: header metadata, 2-3 sentence overview, key logistics, sources — no full trail breakdown table)
+- [x] T012 [P] Write brief trail profile for Lookout Mountain (Moonshine/CCT) in `trails/lookout-mountain.md` using research.md Trail #8 data (abbreviated format)
+- [x] T013 [P] Write brief trail profile for Pigeon Mountain in `trails/pigeon-mountain.md` using research.md Trail #12 data (abbreviated format; flag WMA access restrictions and hunting season closures prominently)
+- [x] T014 [P] Write brief trail profile for Oak Mountain State Park in `trails/oak-mountain.md` using research.md Trail #14 data (abbreviated format; note too far for climbing pairing, standalone only)
 
 **Checkpoint**: All 12 trail profiles exist — ready for README tables and cross-references
 
@@ -69,14 +69,14 @@
 
 ### Implementation for User Story 1
 
-- [ ] T015 [US1] Populate the Climbing Area Pairing Matrix in `trails/README.md` per data-model.md schema and research.md pairing matrix: one row per climbing area (Stone Fort, Rocktown, HP40, Dayton Pocket, Zahnd Tract, Hospital Boulders, Walden's Ridge) with linked trail names, drive times from climbing area to trail, and notes. Links point to trail profiles in `trails/` and area profiles in `../areas/`. Honestly state when no nearby trails exist (Dayton Pocket).
-- [ ] T016 [P] [US1] Add "Nearby MTB" metadata line to `areas/stone-fort.md` blockquote: `> **Nearby MTB**: [Raccoon Mountain](../trails/raccoon-mountain.md) (~20-30 min), [Stringer's Ridge](../trails/stringers-ridge.md) (~15-20 min)`
-- [ ] T017 [P] [US1] Add "Nearby MTB" metadata line to `areas/rocktown.md` blockquote: `> **Nearby MTB**: [Five Points](../trails/five-points.md) (~25-40 min), [Pigeon Mountain](../trails/pigeon-mountain.md) (~10-15 min)`
-- [ ] T018 [P] [US1] Add "Nearby MTB" metadata line to `areas/hp40.md` blockquote: `> **Nearby MTB**: [Coldwater Mountain](../trails/coldwater-mountain.md) (~50-55 min from HP40)`
-- [ ] T019 [P] [US1] Add "Nearby MTB" metadata line to `areas/dayton-pocket.md` blockquote: `> **Nearby MTB**: None nearby — closest is [ESNP](../trails/enterprise-south.md) (~50-65 min back to lodging)`
-- [ ] T020 [P] [US1] Add "Nearby MTB" metadata line to `areas/zahnd-tract.md` blockquote: `> **Nearby MTB**: [Five Points](../trails/five-points.md) (~25-40 min), [Pigeon Mountain](../trails/pigeon-mountain.md) (~10-20 min)`
-- [ ] T021 [P] [US1] Add "Nearby MTB" metadata line to `areas/hospital-boulders.md` blockquote: `> **Nearby MTB**: [Coldwater Mountain](../trails/coldwater-mountain.md) (~1 hr)`
-- [ ] T022 [P] [US1] Add "Nearby MTB" metadata line to `areas/waldens-ridge.md` blockquote: `> **Nearby MTB**: [Walden's Ridge Park](../trails/waldens-ridge-park.md) (same location!), [Raccoon Mountain](../trails/raccoon-mountain.md) (~15-20 min)`
+- [x] T015 [US1] Populate the Climbing Area Pairing Matrix in `trails/README.md` per data-model.md schema and research.md pairing matrix: one row per climbing area (Stone Fort, Rocktown, HP40, Dayton Pocket, Zahnd Tract, Hospital Boulders, Walden's Ridge) with linked trail names, drive times from climbing area to trail, and notes. Links point to trail profiles in `trails/` and area profiles in `../areas/`. Honestly state when no nearby trails exist (Dayton Pocket).
+- [x] T016 [P] [US1] Add "Nearby MTB" metadata line to `areas/stone-fort.md` blockquote: `> **Nearby MTB**: [Raccoon Mountain](../trails/raccoon-mountain.md) (~20-30 min), [Stringer's Ridge](../trails/stringers-ridge.md) (~15-20 min)`
+- [x] T017 [P] [US1] Add "Nearby MTB" metadata line to `areas/rocktown.md` blockquote: `> **Nearby MTB**: [Five Points](../trails/five-points.md) (~25-40 min), [Pigeon Mountain](../trails/pigeon-mountain.md) (~10-15 min)`
+- [x] T018 [P] [US1] Add "Nearby MTB" metadata line to `areas/hp40.md` blockquote: `> **Nearby MTB**: [Coldwater Mountain](../trails/coldwater-mountain.md) (~50-55 min from HP40)`
+- [x] T019 [P] [US1] Add "Nearby MTB" metadata line to `areas/dayton-pocket.md` blockquote: `> **Nearby MTB**: None nearby — closest is [ESNP](../trails/enterprise-south.md) (~50-65 min back to lodging)`
+- [x] T020 [P] [US1] Add "Nearby MTB" metadata line to `areas/zahnd-tract.md` blockquote: `> **Nearby MTB**: [Five Points](../trails/five-points.md) (~25-40 min), [Pigeon Mountain](../trails/pigeon-mountain.md) (~10-20 min)`
+- [x] T021 [P] [US1] Add "Nearby MTB" metadata line to `areas/hospital-boulders.md` blockquote: `> **Nearby MTB**: [Coldwater Mountain](../trails/coldwater-mountain.md) (~1 hr)`
+- [x] T022 [P] [US1] Add "Nearby MTB" metadata line to `areas/waldens-ridge.md` blockquote: `> **Nearby MTB**: [Walden's Ridge Park](../trails/waldens-ridge-park.md) (same location!), [Raccoon Mountain](../trails/raccoon-mountain.md) (~15-20 min)`
 
 **Checkpoint**: Pairing matrix complete. Every climbing area links to nearby trails (or honestly says none). Area profiles link back to trail profiles. User Story 1 is independently testable.
 
@@ -90,7 +90,7 @@
 
 ### Implementation for User Story 2
 
-- [ ] T023 [US2] Populate the Trail Comparison Table in `trails/README.md` per data-model.md schema: all 12 trail systems with columns for Trail System (linked), Drive from Lodging, Miles, Difficulty, Style, Feb Status, Fees, Best Pairing. Sort by drive time from lodging (shortest first). Include a "Rest-Day Rides" callout section below the table highlighting the top 3 options near lodging (ESNP, White Oak Mountain, Raccoon Mountain).
+- [x] T023 [US2] Populate the Trail Comparison Table in `trails/README.md` per data-model.md schema: all 12 trail systems with columns for Trail System (linked), Drive from Lodging, Miles, Difficulty, Style, Feb Status, Fees, Best Pairing. Sort by drive time from lodging (shortest first). Include a "Rest-Day Rides" callout section below the table highlighting the top 3 options near lodging (ESNP, White Oak Mountain, Raccoon Mountain).
 
 **Checkpoint**: Comparison table complete. Full-day and rest-day riding options are scannable. User Story 2 is independently testable.
 
@@ -104,8 +104,8 @@
 
 ### Implementation for User Story 3
 
-- [ ] T024 [US3] Add February Riding Conditions summary section to `trails/README.md` between the header and comparison table: freeze/thaw guidance from research.md, SORBA trail status link, wet-weather fallback list (White Oak Mountain, ESNP, Chickamauga Battlefield), and the "if your tires leave ruts deeper than 1/2 inch, turn around" rule.
-- [ ] T025 [US3] Review all 12 trail profiles for conditions completeness: verify every profile has Conditions section with drainage rating and February notes, Access section with parking/fees/February status, and Sources with at least 1 link. Add [UNVERIFIED] flags where data is uncertain (per FR-008). Fix any gaps found.
+- [x] T024 [US3] Add February Riding Conditions summary section to `trails/README.md` between the header and comparison table: freeze/thaw guidance from research.md, SORBA trail status link, wet-weather fallback list (White Oak Mountain, ESNP, Chickamauga Battlefield), and the "if your tires leave ruts deeper than 1/2 inch, turn around" rule.
+- [x] T025 [US3] Review all 12 trail profiles for conditions completeness: verify every profile has Conditions section with drainage rating and February notes, Access section with parking/fees/February status, and Sources with at least 1 link. Add [UNVERIFIED] flags where data is uncertain (per FR-008). Fix any gaps found.
 
 **Checkpoint**: All conditions and logistics data present and sourced. User Story 3 is independently testable.
 
@@ -115,9 +115,9 @@
 
 **Purpose**: Quality validation and final integration
 
-- [ ] T026 Validate all trail profile cross-links: verify every `../areas/` link in trail profiles resolves to an existing file, every `../trails/` link in area profiles resolves to an existing file, and all internal links in `trails/README.md` resolve correctly
-- [ ] T027 Validate against spec success criteria SC-001 through SC-006: (1) each Tier 1 area has 1+ trail pairing findable in <60s, (2) 2+ full-day rides from lodging documented, (3) all mandatory fields present in every profile, (4) all 7 areas covered in pairing matrix, (5) profiles pass 5 content quality gates, (6) comparison table answers "where should I ride?" in <60s
-- [ ] T028 Run quickstart.md scenarios: walk through all 4 "During the Trip" scenarios in quickstart.md and verify each can be answered using the created documents
+- [x] T026 Validate all trail profile cross-links: verify every `../areas/` link in trail profiles resolves to an existing file, every `../trails/` link in area profiles resolves to an existing file, and all internal links in `trails/README.md` resolve correctly
+- [x] T027 Validate against spec success criteria SC-001 through SC-006: (1) each Tier 1 area has 1+ trail pairing findable in <60s, (2) 2+ full-day rides from lodging documented, (3) all mandatory fields present in every profile, (4) all 7 areas covered in pairing matrix, (5) profiles pass 5 content quality gates, (6) comparison table answers "where should I ride?" in <60s
+- [x] T028 Run quickstart.md scenarios: walk through all 4 "During the Trip" scenarios in quickstart.md and verify each can be answered using the created documents
 
 ---
 

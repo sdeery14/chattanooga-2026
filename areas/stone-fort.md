@@ -3,6 +3,7 @@
 > **Tier**: Primary
 > **Drive from lodging**: ~35–45 min from Enterprise South Nature Park area
 > **Problem Clusters**: [Curated problem lists by grade band](stone-fort-problems.md)
+> **Nearby MTB**: [Raccoon Mountain](../trails/raccoon-mountain.md) (~20-30 min), [Stringer's Ridge](../trails/stringers-ridge.md) (~15-20 min)
 
 ## Overview
 

@@ -3,6 +3,7 @@
 > **Tier**: Supplementary
 > **Drive from lodging**: ~1.5–2 hrs from Enterprise South Nature Park area [UNVERIFIED]
 > **Problem Clusters**: [Curated problem lists by grade band](hospital-boulders-problems.md)
+> **Nearby MTB**: [Coldwater Mountain](../trails/coldwater-mountain.md) (~1 hr)
 
 ## Overview
 

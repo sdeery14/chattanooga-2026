@@ -3,6 +3,7 @@
 > **Tier**: Supplementary
 > **Drive from lodging**: ~50–60 min from Enterprise South Nature Park area
 > **Problem Clusters**: [Curated problem lists by grade band](zahnd-tract-problems.md)
+> **Nearby MTB**: [Five Points](../trails/five-points.md) (~25-40 min), [Pigeon Mountain](../trails/pigeon-mountain.md) (~10-20 min)
 
 ## Overview
 
