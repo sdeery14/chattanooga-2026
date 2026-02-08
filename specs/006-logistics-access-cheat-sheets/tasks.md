@@ -25,7 +25,7 @@
 
 **Purpose**: Create directory structure and document skeleton
 
-- [ ] T001 Create `logistics/` directory and `logistics/README.md` with document skeleton per data-model.md template (title, blockquote with cross-references to conditions guide, area profiles, and trip dates, empty Drive-Time Comparison table header, section headings for Don't Screw This Up, Area Access Cheat Sheets, Multi-Area Day Pairings, Sources)
+- [x] T001 Create `logistics/` directory and `logistics/README.md` with document skeleton per data-model.md template (title, blockquote with cross-references to conditions guide, area profiles, and trip dates, empty Drive-Time Comparison table header, section headings for Don't Screw This Up, Area Access Cheat Sheets, Multi-Area Day Pairings, Sources)
 
 ---
 
@@ -37,7 +37,7 @@
 
 ### Implementation for User Story 1
 
-- [ ] T002 [US1] Populate the Drive-Time Comparison table in `logistics/README.md` using research.md section 1. Include all Tier 1 areas (Stone Fort, Rocktown, HP40) and Tier 2 areas (Dayton Pocket, Walden's Ridge, Hospital Boulders, Dogwood, Zahnd Tract) sorted by drive time. Each row must include: Area (linked to area profile), Drive Time, Distance, Route description, Time Zone (flag ET/CT crossings), and Road Notes for February. Add a brief note below the table about mountain road concerns in February (ice, unpaved sections). Cite sources from research.md.
+- [x] T002 [US1] Populate the Drive-Time Comparison table in `logistics/README.md` using research.md section 1. Include all Tier 1 areas (Stone Fort, Rocktown, HP40) and Tier 2 areas (Dayton Pocket, Walden's Ridge, Hospital Boulders, Dogwood, Zahnd Tract) sorted by drive time. Each row must include: Area (linked to area profile), Drive Time, Distance, Route description, Time Zone (flag ET/CT crossings), and Road Notes for February. Add a brief note below the table about mountain road concerns in February (ice, unpaved sections). Cite sources from research.md.
 
 **Checkpoint**: Drive-time table populated. Reader can determine drive time to any area in under 15 seconds. SC-001 testable.
 
@@ -51,9 +51,9 @@
 
 ### Implementation for User Story 2
 
-- [ ] T003 [US2] Write the "Don't Screw This Up" section in `logistics/README.md` using research.md section 5. Split into two subsections: (1) Pre-Trip Action Items (7 items: purchase GA WMA license, request Hospital Boulders gate code, register for Dayton Pocket, register for Dogwood, check Triple Crown dates, confirm Stone Fort hours, check HP40 hours) and (2) Day-Of Warnings (5 items: HP40 time zone trap, Dayton Pocket lock-in, Stone Fort clubhouse check-in, Hospital Boulders property boundary, Rocktown road after rain). Each warning must include severity indicator. Cite sources.
-- [ ] T004 [P] [US2] Write Tier 1 Area Access Cheat Sheets in `logistics/README.md` using research.md sections 2-3. Create H3 entries for Stone Fort, Rocktown, and HP40. Each entry must include: fee, gate hours, check-in/registration, critical rules, parking location, approach (distance/time/terrain/pad-carry), and contact info/verification link. Link area name to area profile. Flag HP40 and Hospital Boulders time zones. Cite sources.
-- [ ] T005 [P] [US2] Write Tier 2 Area Access Cheat Sheets in `logistics/README.md` using research.md sections 2-3. Create H3 entries for Dayton Pocket, Walden's Ridge, Hospital Boulders, Dogwood, and Zahnd Tract. Briefer format than Tier 1 — focus on what's unique about each area's access (Dayton Pocket lock-in, Hospital Boulders gate code, Dogwood registration, Zahnd WMA license). Link to area profiles. Cite sources.
+- [x] T003 [US2] Write the "Don't Screw This Up" section in `logistics/README.md` using research.md section 5. Split into two subsections: (1) Pre-Trip Action Items (7 items: purchase GA WMA license, request Hospital Boulders gate code, register for Dayton Pocket, register for Dogwood, check Triple Crown dates, confirm Stone Fort hours, check HP40 hours) and (2) Day-Of Warnings (5 items: HP40 time zone trap, Dayton Pocket lock-in, Stone Fort clubhouse check-in, Hospital Boulders property boundary, Rocktown road after rain). Each warning must include severity indicator. Cite sources.
+- [x] T004 [P] [US2] Write Tier 1 Area Access Cheat Sheets in `logistics/README.md` using research.md sections 2-3. Create H3 entries for Stone Fort, Rocktown, and HP40. Each entry must include: fee, gate hours, check-in/registration, critical rules, parking location, approach (distance/time/terrain/pad-carry), and contact info/verification link. Link area name to area profile. Flag HP40 and Hospital Boulders time zones. Cite sources.
+- [x] T005 [P] [US2] Write Tier 2 Area Access Cheat Sheets in `logistics/README.md` using research.md sections 2-3. Create H3 entries for Dayton Pocket, Walden's Ridge, Hospital Boulders, Dogwood, and Zahnd Tract. Briefer format than Tier 1 — focus on what's unique about each area's access (Dayton Pocket lock-in, Hospital Boulders gate code, Dogwood registration, Zahnd WMA license). Link to area profiles. Cite sources.
 
 **Checkpoint**: Access cheat sheets complete for all areas. "Don't Screw This Up" has 12 items (7 pre-trip + 5 day-of). SC-002, SC-003, SC-004 testable.
 
@@ -67,7 +67,7 @@
 
 ### Implementation for User Story 3
 
-- [ ] T006 [US3] Verify that parking and approach details are included in each Area Access Cheat Sheet entry (T004-T005). If any area is missing parking location, approach distance/time, or pad-carry notes, add them. Ensure Stone Fort includes Montlake clubhouse address, Rocktown includes unpaved road warning, HP40 includes "boulders scattered throughout park" note, and Dayton Pocket includes the significant elevation change (~1,000 ft) warning.
+- [x] T006 [US3] Verify that parking and approach details are included in each Area Access Cheat Sheet entry (T004-T005). If any area is missing parking location, approach distance/time, or pad-carry notes, add them. Ensure Stone Fort includes Montlake clubhouse address, Rocktown includes unpaved road warning, HP40 includes "boulders scattered throughout park" note, and Dayton Pocket includes the significant elevation change (~1,000 ft) warning.
 
 **Checkpoint**: All area entries include complete parking and approach information. SC-002 (extended) testable.
 
@@ -77,11 +77,11 @@
 
 **Purpose**: Add multi-area day pairings, consolidate sources, validate quality
 
-- [ ] T007 Write "Multi-Area Day Pairings" section in `logistics/README.md` using research.md section 4. Include at least 4 pairings: (1) Alabama Corridor: HP40 + Hospital Boulders, (2) Georgia Ridge: Rocktown + Zahnd Tract, (3) Cumberland Plateau: Stone Fort + Dogwood, (4) Quick Local: Walden's Ridge + Sunset Rock viewpoint. Each pairing must include: areas (linked), total drive time from ESNP and between areas, why it works logistically, and timing tips. Cite sources.
-- [ ] T008 Write "Sources" section at the bottom of `logistics/README.md` consolidating all sources cited throughout the document in a table format (Source, Type, Used For). Include links from research.md source summary.
-- [ ] T009 Validate all cross-reference links in `logistics/README.md` resolve to existing files: check every `../areas/*.md`, `../conditions/README.md`, `../trails/README.md`, and `../rest-days/README.md` link against actual files in the repository. Fix any broken links.
-- [ ] T010 Validate success criteria SC-001 through SC-007 against `logistics/README.md`: (SC-001) drive time lookup in <15s, (SC-002) access requirements in <30s, (SC-003) at least 5 critical warnings, (SC-004) contact info for all gated/fee areas, (SC-005) all cross-references resolve, (SC-006) all claims sourced or [UNVERIFIED], (SC-007) at least 3 multi-area pairings with drive-time totals.
-- [ ] T011 Run quickstart.md scenarios against `logistics/README.md`: (1) "How long to get to HP40?" → find in drive-time table, (2) "We're heading to Dayton Pocket — what do we need to know?" → find access cheat sheet, (3) "We want to visit two areas today" → find multi-area pairings, (4) "Do we need to pay?" → find in Don't Screw This Up or access sheet. Document any gaps and fix.
+- [x] T007 Write "Multi-Area Day Pairings" section in `logistics/README.md` using research.md section 4. Include at least 4 pairings: (1) Alabama Corridor: HP40 + Hospital Boulders, (2) Georgia Ridge: Rocktown + Zahnd Tract, (3) Cumberland Plateau: Stone Fort + Dogwood, (4) Quick Local: Walden's Ridge + Sunset Rock viewpoint. Each pairing must include: areas (linked), total drive time from ESNP and between areas, why it works logistically, and timing tips. Cite sources.
+- [x] T008 Write "Sources" section at the bottom of `logistics/README.md` consolidating all sources cited throughout the document in a table format (Source, Type, Used For). Include links from research.md source summary.
+- [x] T009 Validate all cross-reference links in `logistics/README.md` resolve to existing files: check every `../areas/*.md`, `../conditions/README.md`, `../trails/README.md`, and `../rest-days/README.md` link against actual files in the repository. Fix any broken links.
+- [x] T010 Validate success criteria SC-001 through SC-007 against `logistics/README.md`: (SC-001) drive time lookup in <15s, (SC-002) access requirements in <30s, (SC-003) at least 5 critical warnings, (SC-004) contact info for all gated/fee areas, (SC-005) all cross-references resolve, (SC-006) all claims sourced or [UNVERIFIED], (SC-007) at least 3 multi-area pairings with drive-time totals.
+- [x] T011 Run quickstart.md scenarios against `logistics/README.md`: (1) "How long to get to HP40?" → find in drive-time table, (2) "We're heading to Dayton Pocket — what do we need to know?" → find access cheat sheet, (3) "We want to visit two areas today" → find multi-area pairings, (4) "Do we need to pay?" → find in Don't Screw This Up or access sheet. Document any gaps and fix.
 
 ---
 
