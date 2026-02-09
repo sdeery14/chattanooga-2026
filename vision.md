@@ -238,7 +238,23 @@ Reduce friction around moving between places.
 - Drive-time comparisons
 - "Don't screw this up" access notes
 
-### Feature 007: Personal Notes & Trip Annotations (Optional)
+### Feature 007: Personal Trip Goals & Preferences (Sean)
+
+A deeply personal reference for Sean — the group's V0–V1 outdoor
+climber and the only mountain biker. Covers climbing growth targets
+that play to his athletic strengths (6'2", 200lbs, explosive power,
+long reach), mountain biking skill-development goals, IPA-forward
+brewery targets, food spots, and sightseeing. Not a group document;
+a personal decision-support layer on top of group research.
+
+- Climbing: "project" problems in the V2–V4 range that suit reach and power
+- Mountain biking: flow/XC rides plus trail/enduro skill development
+- Breweries (IPA focus), restaurants, and food spots to hit
+- Sights, experiences, or side-trips of personal interest
+- Personal packing and bike transport logistics
+- "If I only have one day left" priority stack
+
+### Feature 008: Personal Notes & Trip Annotations (Optional)
 
 Capture lightweight reflections without turning the repo into a diary.
 
@@ -253,7 +269,7 @@ Vision
   ↓
 001 Areas → 002 Problems → 003 Biking → 004 Rest Days
   ↓
-005 Conditions → 006 Logistics → 007 Reflections
+005 Conditions → 006 Logistics → 007 Personal Goals → 008 Reflections
 ```
 
 You can stop at any point and still have a valuable repo.
@@ -266,6 +282,7 @@ If time is tight:
 2. **Feature 002** – huge value
 3. **Feature 003** – personal win
 4. **Feature 004** – sanity saver
+5. **Feature 007** – personal psych fuel
 
 Everything else is bonus.
 
