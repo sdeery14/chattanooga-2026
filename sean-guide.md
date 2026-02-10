@@ -216,24 +216,84 @@
 | Ketchup | V1 | Upper Boulders | Near parking | Intro to highballs — assess landing | Caution | ⚠️ Highball intro. Good way to test comfort level |
 | Red Arrow | V3 | Cadillac Thrills | Lower Boulders | Sloper topout — **slopers harder at your weight** | OK | Same boulder as Cadillac Thrills V9 and Hot 'N Tot V10 — group anchor spot where everyone climbs together |
 
+### Walden's Ridge Park
+
+> [Area Profile](areas/waldens-ridge.md) | [Problem Clusters](areas/waldens-ridge-problems.md)
+> Closest bouldering to lodging (~25–35 min). Opened 2023, still developing. ~194 problems across 20 sub-areas. **Far more V0–V3 than originally documented** — 50+ easy problems, not just 1.
+> Also has MTB trails — you can climb and ride in the same session here.
+
+**Send List** — High-confidence sends for your profile:
+
+| Problem | Grade | Sub-Area | Walk | Why It Suits You | Landing | Flags |
+|---------|-------|----------|------|------------------|---------|-------|
+| Toy Car | V0 | Upper Parking | ~2 min | Right at the car — instant warmup | OK | ⚠️ Tight hallway landings between stacked boulders — place pads carefully |
+| Grundler | V0–V1 | BTW Boulder | ~10 min | Good intro to the main area | Good | — |
+| Overcrimp | V1 | BTW Boulder | ~10 min | Crimping practice — suits hangboard training | Good | — |
+| Gravestone | V1 | Gravestone Boulder | ~10 min | Perfect beginner slab on one side, steeper on the other | Good | — |
+| **NW Arete** | **V2** | BTW Boulder | ~10 min | **Must-do. "Classic, fun, works for short and tall climbers."** Sit start, climb arete using holds on both sides. ~15 ft. Top-rated easy problem at the park (3.5 stars) | Good | ⚠️ 15 ft tall — assess descent (fire-pole tree or downclimb). Height is manageable but note it |
+| **Bald Tires** | **V2–V3** | Upper Parking | ~2 min | "Smear, palm, and pinch your way up." Technical featured corner. Best-rated easy problem at Upper Parking (3.5 stars) | Caution | ⚠️ Tight landing — half pad fits in the corner |
+| 9 to 5 | V2 | Small/Short/Narrow | ~10 min | Solid V2 with good rating | Good | — |
+
+**Stretch Goals** — Reachable with effort:
+
+| Problem | Grade | Sub-Area | Walk | Why It Suits You | Landing | Flags |
+|---------|-------|----------|------|------------------|---------|-------|
+| **East Arete** | V3 | Creekside | ~12 min | "Fantastic arete-squeeze." Balance, techy sidepulls, crimps, good footwork. Sit start. 12 ft. Arete rewards reach | Good | Creekside — check for damp landing |
+| Slope Rider | V3 | BTW Boulder | ~10 min | Well-rated V3 on the main boulder | Good | — |
+| Marshmallow Arete | V3 | Marshmallow (the Cube) | ~10 min | Sit start on flat jug, work left and up. 10 ft | Good | — |
+
+**Moonshot** (V4 — if feeling strong):
+
+| Problem | Grade | Sub-Area | Walk | Why It Suits You | Landing | Flags |
+|---------|-------|----------|------|------------------|---------|-------|
+| **Epitaph** | V4 | Gravestone Boulder | ~10 min | Right-hand sidepull + hidden left-hand undercling crimp. Navigate to face and topout. 12 ft. **Explosive start sequence rewards power** (3.5 stars) | Good | — |
+| Compact Car | V4 | Upper Parking | ~2 min | Crimpy, technical vert. Popular (14 ascents). Suits your developing finger strength | OK | Tight hallway landing |
+
+> **Bonus**: Walden's Ridge has MTB trails on-site. You can climb for a few hours and ride the same afternoon without moving your car. The Gravestone Boulder has "a perfect beginner's slab on one side, and progressively steeper bulges and faces on the other" — great for progression.
+>
+> **February note**: Sandstone friction is excellent in cold/dry weather. Creek crossings can be icy. Stick to Upper Parking, BTW Boulder, and Gravestone for driest conditions. The Waterfall Area will be wetter.
+>
+> **Caution**: Park opened 2023, still developing. Landing zones may have loose rock from limited traffic. Test landings before committing.
+
+### Cumberland Boulders / Pep Boys
+
+> No area profile in repo — this area was outside original scope. On Mowbray Mountain, same as Stone Fort. ~57 problems, heavily roof-oriented. **Quick-drying** — wind-tunnel effect makes it a good rain-day alternative when Stone Fort is still seeping.
+
+**Honest Assessment for Your Level**: Cumberland/Pep Boys is a **roof-heavy area** where the signature problems are V7–V13. Only ~5–8 problems exist at V0–V3. That said, the Hueco Roof cluster has one genuine classic worth trying.
+
+| Problem | Grade | Sub-Area | Walk | Why It Suits You | Landing | Flags |
+|---------|-------|----------|------|------------------|---------|-------|
+| Peanut Gallery | V1 | Hueco Roof | ~10–15 min | Roof on jugs — warmup for the area | OK | ⚠️ Creek-side setting — uneven landing, pad placement matters |
+| Ear | V2 | Warm Up Boulder | ~10 min | First boulders you reach — good intro | OK | — |
+| Finagler | V2 | Hueco Roof | ~10–15 min | Roof at approachable grade | OK | Creek-side landing |
+| **Hueco Roof Right** | **V3** | Hueco Roof | ~10–15 min | **"Surf jugs and battle the top."** 9 ft. Classic roof on big holds — reach and power are exactly what this needs. (3.1 stars, 86 votes — most popular easy problem in the area) | OK | ⚠️ Roof fall = horizontal landing. Spotter recommended. Creek-side pad placement |
+| Hatchet | V4 | Lower Suck/Paul Bunyan | ~15 min | "Engineer big moves straight up" from undercling. 7 ft tall. Power + reach friendly | OK | On the Paul Bunyan bloc — creek-side |
+
+**When to go here**: Visit Cumberland/Pep Boys as a **Stone Fort add-on** (same mountain, ~5–10 min drive between them). Best reason to come: Stone Fort is wet but Cumberland is dry (wind-tunnel drying effect). Spend 1–2 hours working the Hueco Roof V1–V4 cluster while your partners project the V7+ roofs. **Do not plan a full day here at your level** — you'll run out of suitable problems.
+
+> **February note**: Creek-side landings may be damp. Sandstone rules apply — don't climb wet rock. No fees, no permits. Tennessee State Parks rules.
+
 ### Tier 2 Quick Notes
 
-> Honest assessments. No filler — if it's not worth your time climbing, ride or spot.
+> Honest assessments for areas without full curated sections. No filler.
 
 | Area | V0–V3 Count | Verdict | Notes | Profile |
 |------|-------------|---------|-------|---------|
 | **Hospital Boulders** | 7 | **Worth climbing** | Best Tier 2 for easy grades. Good rest-day or mixed-ability destination. Short approaches | [Profile](areas/hospital-boulders.md) / [Problems](areas/hospital-boulders-problems.md) |
 | Dayton Pocket | 2 | Ride or spot | Only 2 named V0–V3. Primary appeal is V5+ roof climbing | [Profile](areas/dayton-pocket.md) |
-| Walden's Ridge | 1 | Ride or spot | Only 1 named V0–V3. Primary strength is V4–V6 | [Profile](areas/waldens-ridge.md) |
 | Zahnd Tract | 1 | Ride or spot | 1 borderline V3/V4. Pair with Rocktown for your climbing | [Profile](areas/zahnd-tract.md) |
+| **Foster Falls** | 1 | **Skip** | Sport climbing area, not bouldering. Only 6 total boulder problems (1 at V1–2: Dizzy Arete). ~50–60 min drive + steep gorge approach + creek crossing. Not worth the trip for 1 easy problem. Knee risk on gorge descent |
+| **Suck Creek** | 2–3 | **Skip (especially February)** | Hard area (V5–V14 core). Only 2–3 V0–V2 problems. Trail-less approach with creek crossings — **February = high water, submerged landings, cold crossings.** Bad for ACL history. Area is at its worst this time of year. Come back in summer if curious |
 
 **Tall/Powerful-Friendly Picks (All Areas)**:
 
 | Problem | Grade | Area | Why You Have an Advantage |
 |---------|-------|------|--------------------------|
 | **Genesis** | V3 | HP40 | REACHY — favors taller climbers. Undercling to pocket |
+| **NW Arete** | V2 | Walden's Ridge | "Works for short and tall climbers." Arete climbing rewards reach |
 | **The Scoop** | V2 | Rocktown | Reach helps for the top |
 | **Mystery Groove** | V2 | Stone Fort | Body-type friendly — short and tall beta both work |
+| **Hueco Roof Right** | V3 | Cumberland/Pep Boys | Roof on big jugs — reach + power is exactly what this needs |
 | Redneck | V6 | HP40 | REACHY — wingspan favors. (Moonshot territory — probably not this trip) |
 
 ---
