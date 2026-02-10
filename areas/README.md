@@ -20,6 +20,7 @@ Worth visiting for specific purposes — half-day sessions, pairing with a Tier 
 - [Dogwood](dogwood.md)
 - [Hospital Boulders](hospital-boulders.md)
 - [Walden's Ridge Park](waldens-ridge.md)
+- [Cumberland Boulders / Pep Boys](cumberland-pep-boys.md)
 
 ## Tier 3: Brief Profiles
 
@@ -27,6 +28,8 @@ Included for completeness. Not primary bouldering destinations for this trip.
 
 - [Sunset Rock](sunset-rock.md) — primarily trad climbing
 - [Hell's Kitchen](hells-kitchen.md) — developing; thin public info
+- [Foster Falls](foster-falls.md) — sport climbing area; only 6 boulder problems
+- [Suck Creek](suck-creek.md) — hard area (V5–V14); poor February conditions
 
 ---
 
@@ -41,9 +44,12 @@ Included for completeness. Not primary bouldering destinations for this trip.
 | [Zahnd Tract](zahnd-tract.md) | ~50–60 min | Limited | Strong | Moderate | Good; fine-grained sandstone | GA WMA license ~$10 | Slabs, slopers, overhangs | [Clusters](zahnd-tract-problems.md) |
 | [Dogwood](dogwood.md) | ~45–55 min | Limited | Strong | Moderate | Good; bullet sandstone | Free; register online | Technical slab, patina incuts | — |
 | [Hospital Boulders](hospital-boulders.md) | ~1.5–2 hrs | Limited | Strong | Abundant | Good | Free; SCC gate code | [UNVERIFIED] | [Clusters](hospital-boulders-problems.md) |
-| [Walden's Ridge](waldens-ridge.md) | ~25–35 min | Minimal | Strong | Moderate | Good | Free; no permit | Varied Pennsylvanian sandstone | [Clusters](waldens-ridge-problems.md) |
+| [Walden's Ridge](waldens-ridge.md) | ~25–35 min | Minimal | Strong | Abundant | Good | Free; no permit | Varied Pennsylvanian sandstone | [Clusters](waldens-ridge-problems.md) |
+| [Cumberland / Pep Boys](cumberland-pep-boys.md) | ~35–45 min | Strong | Moderate | Limited | Good; quick-drying | Free; no permit | Roofs, overhangs, creek-side | [Clusters](cumberland-pep-boys-problems.md) |
 | [Sunset Rock](sunset-rock.md) | ~20–30 min | Negligible | Limited | Limited | — | Free | Primarily trad | — |
 | [Hell's Kitchen](hells-kitchen.md) | ~40–50 min | [UNVERIFIED] | [UNVERIFIED] | [UNVERIFIED] | — | Free | [UNVERIFIED] | — |
+| [Foster Falls](foster-falls.md) | ~50–60 min | Negligible | Negligible | Negligible | Good | Free; online reg. | Sport climbing (not bouldering) | — |
+| [Suck Creek](suck-creek.md) | ~35–50 min | Strong | Limited | Very limited | **Poor in Feb** | Free | Steep roofs, creek-side | — |
 
 ---
 
@@ -60,3 +66,7 @@ Included for completeness. Not primary bouldering destinations for this trip.
 **Best for a half-day session**: Walden's Ridge (close + no fee) or Dayton Pocket (pair with another area)
 
 **Best rest-day addon**: Zahnd (pair with Rocktown, 15 min apart)
+
+**Stone Fort rain-day alternative**: Cumberland / Pep Boys (same mountain, ~5–10 min away, dries faster)
+
+**Skip in February**: Suck Creek (high water, submerged landings, cold creek crossings)
