@@ -160,7 +160,7 @@ Included for completeness. Not primary bouldering destinations for this trip.
 }
 ```
 
-> Red pins = Tier 1 (primary destinations). Blue pins = Tier 2/3 (supplementary).
+> Click any pin for area name, tier, and drive time.
 
 ---
 

@@ -220,7 +220,7 @@
 }
 ```
 
-> Gold = breweries. Orange = restaurants/food. Purple = gear shops. Teal = sights.
+> Click any pin for name and details. Breweries, restaurants, gear shops, and sights included.
 
 ## When It Rains
 

@@ -41,7 +41,7 @@
 
 ## Trip Map
 
-> All of Sean's priority destinations on one map. **Red** = climbing areas. **Green** = bike trails. **Gold** = breweries. **Orange** = food. **Teal** = sights. **Gray** = lodging.
+> All of Sean's priority destinations on one map. Click any pin for details. Climbing areas, bike trails, breweries, food, sights, and lodging included.
 > Maps render on GitHub web — if using the mobile app, open in your phone's browser instead.
 
 ```geojson

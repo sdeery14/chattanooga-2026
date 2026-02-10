@@ -107,7 +107,7 @@ Trails in the Chattanooga area are **generally rideable in February** but with i
 }
 ```
 
-> Green pins = mountain biking trailheads from Sean's wishlist.
+> Click any pin for trail name, miles, and character.
 
 ### Rest-Day Rides (Top 3 Near Lodging)
 
