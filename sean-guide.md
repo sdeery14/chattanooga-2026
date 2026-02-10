@@ -6,6 +6,38 @@
 
 ---
 
+## Table of Contents
+
+- [Quick Profile](#quick-profile)
+- [Priority Stack](#priority-stack)
+- [Mountain Biking](#mountain-biking)
+  - [Trail Wishlist](#trail-wishlist)
+  - [Climbing-Area Pairings](#climbing-area-pairings)
+  - [Wet-Weather Fallbacks](#wet-weather-fallbacks)
+- [Climbing Projects](#climbing-projects)
+  - [Stone Fort](#stone-fort)
+  - [Rocktown](#rocktown)
+  - [HP40](#hp40)
+  - [Walden's Ridge Park](#waldens-ridge-park)
+  - [Cumberland Boulders / Pep Boys](#cumberland-boulders--pep-boys)
+  - [Tier 2 Quick Notes](#tier-2-quick-notes)
+- [Food & Drink](#food--drink)
+  - [Don't Miss](#dont-miss)
+  - [If Nearby](#if-nearby)
+  - [IPA Crawl Route](#ipa-crawl-route)
+  - [Tactical Notes](#tactical-notes)
+- [Sights & Experiences](#sights--experiences)
+  - [Quick Hits](#quick-hits)
+  - [Worth the Time](#worth-the-time)
+  - [Half-Day Experiences](#half-day-experiences)
+  - [Gear Shops](#gear-shops)
+- [Personal Logistics](#personal-logistics)
+  - [Bike Transport](#bike-transport)
+  - [Gear Checklist](#gear-checklist)
+  - [Knee/Body Notes](#kneebody-notes)
+
+---
+
 ## Quick Profile
 
 | Attribute | Details |
