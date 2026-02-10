@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+- [Trip Map](#trip-map)
 - [Quick Profile](#quick-profile)
 - [Priority Stack](#priority-stack)
 - [Mountain Biking](#mountain-biking)
@@ -35,6 +36,191 @@
   - [Bike Transport](#bike-transport)
   - [Gear Checklist](#gear-checklist)
   - [Knee/Body Notes](#kneebody-notes)
+
+---
+
+## Trip Map
+
+> All of Sean's priority destinations on one map. **Red** = climbing areas. **Green** = bike trails. **Gold** = breweries. **Orange** = food. **Teal** = sights. **Gray** = lodging.
+> Maps render on GitHub web — if using the mobile app, open in your phone's browser instead.
+
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Enterprise South (Lodging Area)",
+        "description": "Home base. Pump track + 15 mi trails on-site.",
+        "marker-color": "#95a5a6",
+        "marker-size": "small"
+      },
+      "geometry": { "type": "Point", "coordinates": [-85.1257, 35.0779] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Stone Fort (LRC)",
+        "description": "Tier 1. ~35-45 min. 600+ problems. Best all-around.",
+        "marker-color": "#e74c3c",
+        "marker-size": "large"
+      },
+      "geometry": { "type": "Point", "coordinates": [-85.2208, 35.2477] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Horse Pens 40 (HP40)",
+        "description": "Tier 1. ~2 hrs. Genesis V3 — your #1 reach problem.",
+        "marker-color": "#e74c3c",
+        "marker-size": "large"
+      },
+      "geometry": { "type": "Point", "coordinates": [-86.3079, 33.9219] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rocktown",
+        "description": "Tier 1. ~50-70 min. The Scoop, El Bano, The Standard.",
+        "marker-color": "#e74c3c",
+        "marker-size": "large"
+      },
+      "geometry": { "type": "Point", "coordinates": [-85.3899, 34.6591] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Walden's Ridge Park",
+        "description": "Tier 1. ~25-35 min. NW Arete V2. Climb + ride same spot.",
+        "marker-color": "#e74c3c",
+        "marker-size": "large"
+      },
+      "geometry": { "type": "Point", "coordinates": [-85.3128, 35.1428] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "White Oak Mountain",
+        "description": "#1 ride. 25 mi flow. Best drainage. ~15-25 min.",
+        "marker-color": "#2ecc71",
+        "marker-size": "medium"
+      },
+      "geometry": { "type": "Point", "coordinates": [-85.0543, 35.0428] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Coldwater Mountain",
+        "description": "Bomb Dog flow trail. ~55 min from HP40. Combo day.",
+        "marker-color": "#2ecc71",
+        "marker-size": "medium"
+      },
+      "geometry": { "type": "Point", "coordinates": [-85.8562, 33.6434] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Raccoon Mountain Trails",
+        "description": "28-30 mi tech singletrack. ~30-40 min.",
+        "marker-color": "#2ecc71",
+        "marker-size": "medium"
+      },
+      "geometry": { "type": "Point", "coordinates": [-85.4179, 35.0449] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hutton & Smith Brewing",
+        "description": "THE IPA brewery. Igneous IPA. Southside.",
+        "marker-color": "#f39c12",
+        "marker-size": "medium"
+      },
+      "geometry": { "type": "Point", "coordinates": [-85.3032, 35.0439] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Five Wits Brewing",
+        "description": "Sunblaze NEIPA. On-site food. Southside.",
+        "marker-color": "#f39c12",
+        "marker-size": "medium"
+      },
+      "geometry": { "type": "Point", "coordinates": [-85.3086, 35.0361] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Chattanooga Brewing Co.",
+        "description": "Hill City IPA. Brewpub. Southside.",
+        "marker-color": "#f39c12",
+        "marker-size": "medium"
+      },
+      "geometry": { "type": "Point", "coordinates": [-85.3145, 35.0362] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sugar's Ribs",
+        "description": "Half-price ribs Tue-Thu. Missionary Ridge.",
+        "marker-color": "#e67e22",
+        "marker-size": "medium"
+      },
+      "geometry": { "type": "Point", "coordinates": [-85.2719, 35.0135] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Tremont Tavern",
+        "description": "Best burger in Chattanooga. North Shore.",
+        "marker-color": "#e67e22",
+        "marker-size": "medium"
+      },
+      "geometry": { "type": "Point", "coordinates": [-85.2895, 35.0695] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Edley's Bar-B-Que",
+        "description": "Ribs, brisket, hot chicken. North Shore.",
+        "marker-color": "#e67e22",
+        "marker-size": "medium"
+      },
+      "geometry": { "type": "Point", "coordinates": [-85.3120, 35.0630] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sunset Rock",
+        "description": "Iconic view. Free. Go at sunset ~6pm.",
+        "marker-color": "#1abc9c",
+        "marker-size": "medium"
+      },
+      "geometry": { "type": "Point", "coordinates": [-85.3552, 35.0017] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ruby Falls",
+        "description": "Underground waterfall. Feb = strongest flow. $30-41.",
+        "marker-color": "#1abc9c",
+        "marker-size": "medium"
+      },
+      "geometry": { "type": "Point", "coordinates": [-85.3394, 35.0190] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Raccoon Mountain Caverns",
+        "description": "Wild cave expedition. Athletic adventure. $25-55.",
+        "marker-color": "#1abc9c",
+        "marker-size": "medium"
+      },
+      "geometry": { "type": "Point", "coordinates": [-85.4079, 35.0212] }
+    }
+  ]
+}
+```
 
 ---
 

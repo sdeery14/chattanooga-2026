@@ -9,6 +9,27 @@
 
 Walden's Ridge is a 200-acre public park on Signal Mountain opened in 2023, making it one of the newest bouldering options near Chattanooga. With multiple bouldering areas accessible within a mile of parking and no fees or permits required, it's the lowest-friction option in the region. The area is still developing and is not a hard-climbing destination, but it's perfect for a quick local session when you don't want to commit to a long drive.
 
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Walden's Ridge Upper Parking",
+        "description": "4232 W Road, Signal Mtn. ~25-35 min from Chattanooga. Free, no permit.",
+        "marker-color": "#e74c3c",
+        "marker-size": "large"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-85.3128, 35.1428]
+      }
+    }
+  ]
+}
+```
+
 ## Hard Appeal (V7–V10)
 
 - **Density**: Minimal [UNVERIFIED — specific hard problem grades not confirmed]

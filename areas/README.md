@@ -2,6 +2,7 @@
 
 > Quick reference for area selection. All drive times from Enterprise South Nature Park area (lodging).
 > Trip dates: February 14–21, 2026.
+> **Maps**: Interactive maps below render on GitHub web. If using the GitHub mobile app, open in your phone's browser instead.
 
 ## Tier 1: Primary Destinations
 
@@ -50,6 +51,116 @@ Included for completeness. Not primary bouldering destinations for this trip.
 | [Hell's Kitchen](hells-kitchen.md) | ~40–50 min | [UNVERIFIED] | [UNVERIFIED] | [UNVERIFIED] | — | Free | [UNVERIFIED] | — |
 | [Foster Falls](foster-falls.md) | ~50–60 min | Negligible | Negligible | Negligible | Good | Free; online reg. | Sport climbing (not bouldering) | — |
 | [Suck Creek](suck-creek.md) | ~35–50 min | Strong | Limited | Very limited | **Poor in Feb** | Free | Steep roofs, creek-side | — |
+
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Stone Fort (LRC)",
+        "description": "Tier 1. ~35-45 min. 600+ problems V0-V14. Best all-around.",
+        "marker-color": "#e74c3c",
+        "marker-size": "large"
+      },
+      "geometry": { "type": "Point", "coordinates": [-85.2208, 35.2477] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rocktown",
+        "description": "Tier 1. ~50-70 min. 500+ problems. World-class hard climbing.",
+        "marker-color": "#e74c3c",
+        "marker-size": "large"
+      },
+      "geometry": { "type": "Point", "coordinates": [-85.3899, 34.6591] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Horse Pens 40 (HP40)",
+        "description": "Tier 1. ~2 hrs. Premier hard bouldering. $15/day.",
+        "marker-color": "#e74c3c",
+        "marker-size": "large"
+      },
+      "geometry": { "type": "Point", "coordinates": [-86.3079, 33.9219] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Walden's Ridge Park",
+        "description": "Tier 1. ~25-35 min. Closest to lodging. Free, no permit.",
+        "marker-color": "#e74c3c",
+        "marker-size": "large"
+      },
+      "geometry": { "type": "Point", "coordinates": [-85.3128, 35.1428] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hospital Boulders",
+        "description": "Tier 2. ~1.5-2 hrs. Good rest-day option. Free (gate code).",
+        "marker-color": "#3498db",
+        "marker-size": "medium"
+      },
+      "geometry": { "type": "Point", "coordinates": [-86.0183, 34.0763] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Dayton Pocket",
+        "description": "Tier 2. ~50-65 min. Roof climbing. Free (online reg).",
+        "marker-color": "#3498db",
+        "marker-size": "medium"
+      },
+      "geometry": { "type": "Point", "coordinates": [-85.0220, 35.5265] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cumberland / Pep Boys",
+        "description": "Tier 2. ~35-45 min. Roofs. Stone Fort rain-day alternative.",
+        "marker-color": "#3498db",
+        "marker-size": "medium"
+      },
+      "geometry": { "type": "Point", "coordinates": [-85.1975, 35.2570] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Zahnd Tract",
+        "description": "Tier 2. ~50-60 min. Pair with Rocktown (15 min apart).",
+        "marker-color": "#3498db",
+        "marker-size": "medium"
+      },
+      "geometry": { "type": "Point", "coordinates": [-85.4726, 34.6531] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Foster Falls",
+        "description": "Tier 3. ~50-60 min. Sport area — only 6 boulder problems.",
+        "marker-color": "#3498db",
+        "marker-size": "medium"
+      },
+      "geometry": { "type": "Point", "coordinates": [-85.6739, 35.1823] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Suck Creek",
+        "description": "Tier 3. ~35-50 min. Hard area (V5-V14). Skip in February.",
+        "marker-color": "#3498db",
+        "marker-size": "medium"
+      },
+      "geometry": { "type": "Point", "coordinates": [-85.3862, 35.1377] }
+    }
+  ]
+}
+```
+
+> Red pins = Tier 1 (primary destinations). Blue pins = Tier 2/3 (supplementary).
 
 ---
 
