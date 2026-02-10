@@ -115,6 +115,8 @@ Trails in the Chattanooga area are **generally rideable in February** but with i
 2. **[White Oak Mountain](white-oak-mountain.md)** — ~15-25 min drive, ~25 mi, best drainage in the area, open until 10 PM. Best all-around option.
 3. **[Raccoon Mountain](raccoon-mountain.md)** — ~30-40 min drive, ~28-30 mi, Chattanooga's flagship MTB. Not rideable when wet.
 
+**Don't have a bike?** See [Mountain Bike Rentals](bike-rentals.md) for rental shops, beginner trail picks, and how to pair a ride with a climbing day.
+
 ---
 
 ## Climbing Area Pairing Matrix

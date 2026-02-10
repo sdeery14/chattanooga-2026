@@ -500,7 +500,7 @@ Bouldering Gym — Southside (427 E Main St, ~15-20 min from lodging)
 - **Cost**: $$ — Day pass $22.50, shoe rental $4
 - **Source**: [Synergy Climbing](https://synergyclimbingandninja.com/)
 
-> **Looking for a rest-day ride?** Mountain biking options are documented in the trail profiles. See [Rest-Day Rides — Top 3 Near Lodging](../trails/README.md#rest-day-rides-top-3-near-lodging): Enterprise South (0 min), White Oak Mountain (~15-25 min), Raccoon Mountain (~30-40 min).
+> **Looking for a rest-day ride?** Mountain biking options are documented in the trail profiles. See [Rest-Day Rides — Top 3 Near Lodging](../trails/README.md#rest-day-rides-top-3-near-lodging): Enterprise South (0 min), White Oak Mountain (~15-25 min), Raccoon Mountain (~30-40 min). No bike? See [Mountain Bike Rentals](../trails/bike-rentals.md) for rental shops and beginner trails.
 
 ---
 
