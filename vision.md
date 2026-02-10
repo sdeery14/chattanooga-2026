@@ -265,7 +265,18 @@ navigation of climbing areas, trail systems, and town destinations.
 - Personal guide map consolidating Sean's priority destinations
 - Designed for GitHub web/app rendering; coordinates sourced from Mountain Project and Gaia
 
-### Feature 009: Personal Notes & Trip Annotations (Optional)
+### Feature 009: Mountain Bike Rentals & Group Riding
+
+Make it easy for non-bikers in the group to join Sean on rides by
+centralizing rental options, logistics, and "first-timer" guidance.
+
+- Local bike shops offering mountain bike rentals or demos
+- Pricing, reservation requirements, and hours
+- Recommended beginner-friendly trails for rental riders
+- What to know before renting (sizing, gear included, deposits)
+- How to pair a rental half-day with a climbing session
+
+### Feature 010: Personal Notes & Trip Annotations (Optional)
 
 Capture lightweight reflections without turning the repo into a diary.
 
@@ -280,7 +291,7 @@ Vision
   ↓
 001 Areas → 002 Problems → 003 Biking → 004 Rest Days
   ↓
-005 Conditions → 006 Logistics → 007 Personal Goals → 008 Maps → 009 Reflections
+005 Conditions → 006 Logistics → 007 Personal Goals → 008 Maps → 009 Bike Rentals → 010 Reflections
 ```
 
 You can stop at any point and still have a valuable repo.
