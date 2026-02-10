@@ -9,6 +9,27 @@
 
 Rocktown is one of the best bouldering areas in the entire Southeast, with 500+ established problems on coarse-grained sandstone in the Crockford-Pigeon Mountain Wildlife Management Area. Located in LaFayette, GA, it offers world-class hard climbing alongside deep moderate and easy options. The diversity of style and problem quality makes it a destination that rewards repeated visits.
 
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rocktown Parking",
+        "description": "End of Rocktown Rd, Pigeon Mtn. ~50-70 min from Chattanooga. 500+ problems.",
+        "marker-color": "#e74c3c",
+        "marker-size": "large"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-85.3899, 34.6591]
+      }
+    }
+  ]
+}
+```
+
 ## Hard Appeal (V7–V10)
 
 - **Density**: Excellent

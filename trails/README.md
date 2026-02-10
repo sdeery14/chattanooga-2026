@@ -39,6 +39,76 @@ Trails in the Chattanooga area are **generally rideable in February** but with i
 | [Coldwater Mountain](coldwater-mountain.md) | ~3-3.5 hrs | ~50-56 mi | Green–Black | IMBA flow, XC, gravity | Open 365 days | Free | HP40, Hospital Boulders |
 | [Oak Mountain](oak-mountain.md) | ~2.5 hrs | ~50 mi | Green–Black | IMBA Epic, diverse | Open | $5/person | Standalone only (too far) |
 
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "White Oak Mountain",
+        "description": "25 mi machine-built flow. Best drainage. ~15-25 min from lodging.",
+        "marker-color": "#2ecc71",
+        "marker-size": "medium"
+      },
+      "geometry": { "type": "Point", "coordinates": [-85.0543, 35.0428] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Enterprise South Nature Park",
+        "description": "15 mi all-difficulty. At lodging (0 min). Pump track + flow.",
+        "marker-color": "#2ecc71",
+        "marker-size": "medium"
+      },
+      "geometry": { "type": "Point", "coordinates": [-85.1257, 35.0779] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Coldwater Mountain",
+        "description": "50-56 mi IMBA flow/XC. ~55 min from HP40. Bomb Dog trail.",
+        "marker-color": "#2ecc71",
+        "marker-size": "medium"
+      },
+      "geometry": { "type": "Point", "coordinates": [-85.8562, 33.6434] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Raccoon Mountain",
+        "description": "28-30 mi tech singletrack. ~30-40 min from lodging.",
+        "marker-color": "#2ecc71",
+        "marker-size": "medium"
+      },
+      "geometry": { "type": "Point", "coordinates": [-85.4179, 35.0449] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Stringer's Ridge",
+        "description": "7 mi urban trails + pump track. ~20-30 min. North Shore.",
+        "marker-color": "#2ecc71",
+        "marker-size": "medium"
+      },
+      "geometry": { "type": "Point", "coordinates": [-85.3088, 35.0784] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Five Points",
+        "description": "20-25 mi diverse trails. ~45-55 min. Rising Fawn, GA. $5.",
+        "marker-color": "#2ecc71",
+        "marker-size": "medium"
+      },
+      "geometry": { "type": "Point", "coordinates": [-85.4390, 34.8372] }
+    }
+  ]
+}
+```
+
+> Green pins = mountain biking trailheads from Sean's wishlist.
+
 ### Rest-Day Rides (Top 3 Near Lodging)
 
 1. **[Enterprise South](enterprise-south.md)** — 0 min drive, ~15 mi, full difficulty range. The default.

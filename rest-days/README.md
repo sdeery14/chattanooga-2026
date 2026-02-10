@@ -32,6 +32,196 @@
 | Sewanee | Day Trip | College Town/Hikes | ~60-65 min | Free-$$ | Partial | Charming plateau town, Gothic campus, state park hikes |
 | Fort Mountain State Park | Day Trip | State Park | ~50-55 min | $ | No | Ancient stone wall, overlooks, scenic trails |
 
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hutton & Smith Brewing",
+        "description": "IPA specialists. Igneous IPA. Southside, 21+ only.",
+        "marker-color": "#f39c12",
+        "marker-size": "medium"
+      },
+      "geometry": { "type": "Point", "coordinates": [-85.3032, 35.0439] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Five Wits Brewing",
+        "description": "Sunblaze NEIPA/West Coast bridge. On-site food. Southside.",
+        "marker-color": "#f39c12",
+        "marker-size": "medium"
+      },
+      "geometry": { "type": "Point", "coordinates": [-85.3086, 35.0361] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Chattanooga Brewing Co.",
+        "description": "Hill City IPA + Hazy Rider. Brewpub with food. Southside.",
+        "marker-color": "#f39c12",
+        "marker-size": "medium"
+      },
+      "geometry": { "type": "Point", "coordinates": [-85.3145, 35.0362] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "OddStory Brewing",
+        "description": "Pastry stouts & sours. Most hyped in Chattanooga.",
+        "marker-color": "#f39c12",
+        "marker-size": "medium"
+      },
+      "geometry": { "type": "Point", "coordinates": [-85.3042, 35.0441] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "WanderLinger Brewing",
+        "description": "Belgian/farmhouse. Choo Choo complex. Live music.",
+        "marker-color": "#f39c12",
+        "marker-size": "medium"
+      },
+      "geometry": { "type": "Point", "coordinates": [-85.3069, 35.0373] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sugar's Ribs",
+        "description": "Half-price ribs Tue-Thu. Missionary Ridge. BBQ.",
+        "marker-color": "#e67e22",
+        "marker-size": "medium"
+      },
+      "geometry": { "type": "Point", "coordinates": [-85.2719, 35.0135] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Edley's Bar-B-Que",
+        "description": "Ribs, brisket, hot chicken. North Shore. Open late Fri-Sat.",
+        "marker-color": "#e67e22",
+        "marker-size": "medium"
+      },
+      "geometry": { "type": "Point", "coordinates": [-85.3120, 35.0630] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Tremont Tavern",
+        "description": "Best burger in Chattanooga. Patty Melt. North Shore.",
+        "marker-color": "#e67e22",
+        "marker-size": "medium"
+      },
+      "geometry": { "type": "Point", "coordinates": [-85.2895, 35.0695] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Champy's Chicken",
+        "description": "Fried chicken specialist. Big portions, casual.",
+        "marker-color": "#e67e22",
+        "marker-size": "medium"
+      },
+      "geometry": { "type": "Point", "coordinates": [-85.3022, 35.0433] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mean Mug Coffeehouse",
+        "description": "Opens 6am weekdays. Roasts own beans. Southside.",
+        "marker-color": "#e67e22",
+        "marker-size": "medium"
+      },
+      "geometry": { "type": "Point", "coordinates": [-85.3089, 35.0366] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Suck Creek Cycle",
+        "description": "Premier MTB shop. Local trail intel. North Shore. Closed Sun.",
+        "marker-color": "#9b59b6",
+        "marker-size": "medium"
+      },
+      "geometry": { "type": "Point", "coordinates": [-85.3170, 35.0708] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rock/Creek Outfitters",
+        "description": "Climbing gear institution since 1987. North Shore.",
+        "marker-color": "#9b59b6",
+        "marker-size": "medium"
+      },
+      "geometry": { "type": "Point", "coordinates": [-85.3120, 35.0630] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "The Gear Closet",
+        "description": "Used outdoor gear. Nonprofit. Signal Mountain Rd.",
+        "marker-color": "#9b59b6",
+        "marker-size": "medium"
+      },
+      "geometry": { "type": "Point", "coordinates": [-85.3265, 35.0862] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "REI Chattanooga",
+        "description": "Standard REI. Bike shop for tune-ups. Hamilton Place.",
+        "marker-color": "#9b59b6",
+        "marker-size": "medium"
+      },
+      "geometry": { "type": "Point", "coordinates": [-85.1504, 35.0347] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sunset Rock",
+        "description": "Iconic panoramic view. Free. Best at sunset ~6pm.",
+        "marker-color": "#1abc9c",
+        "marker-size": "medium"
+      },
+      "geometry": { "type": "Point", "coordinates": [-85.3552, 35.0017] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ruby Falls",
+        "description": "Underground waterfall. Feb = strongest flow. $30-41.",
+        "marker-color": "#1abc9c",
+        "marker-size": "medium"
+      },
+      "geometry": { "type": "Point", "coordinates": [-85.3394, 35.0190] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rock City",
+        "description": "Seven-state view. Fat Man's Squeeze. ~$25-35.",
+        "marker-color": "#1abc9c",
+        "marker-size": "medium"
+      },
+      "geometry": { "type": "Point", "coordinates": [-85.3503, 34.9733] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Raccoon Mountain Caverns",
+        "description": "Wild cave expeditions. Athletic adventure. $25-55.",
+        "marker-color": "#1abc9c",
+        "marker-size": "medium"
+      },
+      "geometry": { "type": "Point", "coordinates": [-85.4079, 35.0212] }
+    }
+  ]
+}
+```
+
+> Gold = breweries. Orange = restaurants/food. Purple = gear shops. Teal = sights.
+
 ## When It Rains
 
 Rain cancelled the plan? Don't spiral into phone research. These options work regardless of weather.

@@ -9,6 +9,27 @@
 
 Stone Fort is one of the most versatile bouldering areas in the Southeast, with 600+ documented problems on bullet-hard Cumberland sandstone. Located on Mowbray Mountain in Soddy-Daisy, TN, it offers deep climbing at every grade — from beginner-friendly slabs to stout V10+ test pieces. If you could only visit one area on this trip, Stone Fort would be the safest bet for keeping the entire group engaged.
 
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Stone Fort Parking",
+        "description": "Montlake Golf Course. ~35-45 min from Chattanooga. 600+ problems V0-V14.",
+        "marker-color": "#e74c3c",
+        "marker-size": "large"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-85.2208, 35.2477]
+      }
+    }
+  ]
+}
+```
+
 ## Hard Appeal (V7–V10)
 
 - **Density**: Strong
