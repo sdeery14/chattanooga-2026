@@ -254,7 +254,18 @@ a personal decision-support layer on top of group research.
 - Personal packing and bike transport logistics
 - "If I only have one day left" priority stack
 
-### Feature 008: Personal Notes & Trip Annotations (Optional)
+### Feature 008: Interactive Area Maps (GeoJSON)
+
+Embed GitHub-rendered GeoJSON maps throughout the repo for visual
+navigation of climbing areas, trail systems, and town destinations.
+
+- Area-level maps with pins for parking, trailheads, and boulder clusters
+- Mountain biking trail system maps
+- Town map for breweries, restaurants, and gear shops
+- Personal guide map consolidating Sean's priority destinations
+- Designed for GitHub web/app rendering; coordinates sourced from Mountain Project and Gaia
+
+### Feature 009: Personal Notes & Trip Annotations (Optional)
 
 Capture lightweight reflections without turning the repo into a diary.
 
@@ -269,7 +280,7 @@ Vision
   ↓
 001 Areas → 002 Problems → 003 Biking → 004 Rest Days
   ↓
-005 Conditions → 006 Logistics → 007 Personal Goals → 008 Reflections
+005 Conditions → 006 Logistics → 007 Personal Goals → 008 Maps → 009 Reflections
 ```
 
 You can stop at any point and still have a valuable repo.
